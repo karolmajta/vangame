@@ -1,0 +1,25 @@
+= What is VanGame?
+
+VanGame is hoping to become a useful, JavaScript, sprite-oriented, 2d game engine.
+
+== Features
+
+*VG.Screen - the game world
+*Emulate focus on <canvas> element
+*Many canvases per page support
+*Drawing primitives
+*Mouse and keyboard event handling
+*Custom events
+*Clocks
+*Support for images
+*Support for sprites
+
+== Tutorials
+
+More information can be found at:
+http://student.agh.edu.pl/~majta/vangame
+
+== Copyright
+
+This software is distributed under JSON License:
+http://www.json.org/license.html

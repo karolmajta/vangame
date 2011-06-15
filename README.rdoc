@@ -13,6 +13,17 @@ VanGame is hoping to become a useful, JavaScript, sprite-oriented, 2d game engin
 * Clocks
 * Support for images
 * Support for sprites
+=======
+*VG.Screen - the game world
+*Emulate focus on <canvas> element
+*Many canvases per page support
+*Drawing primitives
+*Mouse and keyboard event handling
+*Custom events
+*Clocks
+*Support for images
+*Support for sprites
+>>>>>>> be637815db98ad048bc3f50fa6b6fb9411b2fb90
 
 == Tutorials
 
